@@ -25,7 +25,7 @@
 2. Header  
 3. Links
 4. Images  
-![jnu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A0%2584%25EB%2582%25A8%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590&psig=AOvVaw0uFeXaySZ0S0VTOyVESF4E&ust=1728126365950000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjA7MLK9IgDFQAAAAAdAAAAABAE)
+![jnu](https://i.namu.wiki/i/B5s82ejAjSt-sWsefTIsWFQI1uRkdi83tlIVZEgjNLDKXbkgkOwhO2uLnRDDWRz6BAG6pF1AaObEkohvbAV8U-w3574jKO7Cxr_65IYF4nxZECZuX0P2PJnpwiBmPpFUOXHLyFYxagPVfgjrwMTdqTRkKJpHTjTsUwEX73CEYJ4.svg)
 5. Quotes
 > quotes
 6. Lists
