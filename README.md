@@ -8,7 +8,7 @@
 #### Week2-1 
 * **버전 관리 개요**
   * [동영상 OSS02-1 ](https://www.youtube.com/watch?v=OofKuTr2zPo&list=TLGGJX6rcYyDR_QwNDEwMjAyNA)
-  * [발표자료 OSS02-1]((https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/edit#slide=id.p1)  )
+  * [발표자료 OSS02-1](https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/edit#slide=id.p1)  
 #### Week2-2 
 * **Git**
   * [동영상 OSS02-2](https://www.youtube.com/watch?v=SzKEDWdcM0g&list=TLGGKkMH7H7Qh9QwNDEwMjAyNA)  
