@@ -1,10 +1,10 @@
 #### Week1-1
 * **강의 개요** (강의계획서)  
-  * [강의계획서]((https://rptbi.jnu.ac.kr/ReportApp/stdhak/reportView.aspx))
+  * [강의계획서](https://rptbi.jnu.ac.kr/ReportApp/stdhak/reportView.aspx)
 #### Week1-2 
 * **오픈소스소프트웨어 개요**
   * [동영상 OSS01](https://www.youtube.com/watch?v=WNfl_Xaqk10&list=TLGGhTAPTxUYMzUwNDEwMjAyNA)
-  * [발표자료 OSS01]((https://docs.google.com/presentation/d/1HJM_NecZ2YZMin9NEL7-_PbZnj44ahYD/edit#slide=id.p1)  )
+  * [발표자료 OSS01](https://docs.google.com/presentation/d/1HJM_NecZ2YZMin9NEL7-_PbZnj44ahYD/edit#slide=id.p1)  
 #### Week2-1 
 * **버전 관리 개요**
   * [동영상 OSS02-1 ](https://www.youtube.com/watch?v=OofKuTr2zPo&list=TLGGJX6rcYyDR_QwNDEwMjAyNA)
